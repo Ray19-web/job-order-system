@@ -1,0 +1,6 @@
+{
+  "name": "Easy-Ink Job Order System",
+  "description": "Live multi-branch job order tracking, deadline alerts, payment status, and role-based workflow management for Easy-Ink Printing Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
